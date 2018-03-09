@@ -1,12 +1,13 @@
 # Decision-Tree
-Decision Tree Model using rpart 
+Decision Tree Model using rpart
+
 (R version 3.4.3 require )
 mushroom dataset from https://www.kaggle.com/uciml/mushroom-classification
 
 to clasificate mushroom is edible or ponsonous
 the target attribute is class  (edible=e, poisonous=p)
 
-cap-shape: bell=b,conical=c,convex=x,flat=f, knobbed=k,sunken=s
+#cap-shape: bell=b,conical=c,convex=x,flat=f, knobbed=k,sunken=s
 cap-surface: fibrous=f,grooves=g,scaly=y,smooth=s
 cap-color: brown=n,buff=b,cinnamon=c,gray=g,green=r,pink=p,purple=u,red=e,white=w,yellow=y
 bruises*: bruises=t,no=f
